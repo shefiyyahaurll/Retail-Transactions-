@@ -1,7 +1,7 @@
 # retail_transactions – ETL Pipeline
 
 ## 📋 Project Overview
-Project ini adalah solusi untuk **Assessment Data Engineering (Tugas No. 1)**.  
+
 Proyek ini mengimplementasikan **ETL Pipeline** otomatis menggunakan **Apache Airflow** yang berjalan di dalam lingkungan **Docker**.
 
 Pipeline ini dirancang untuk melakukan sinkronisasi data transaksi dari tabel operasional  
